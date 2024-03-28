@@ -1,0 +1,9 @@
+.mainscreen{
+    width:calc(70vw - 240px);
+    height:calc(100vh - 180px);
+    background-color: rgb(32, 32, 32);
+    position: fixed;
+    left:250px;
+    top:90px;
+    border-radius:15px;
+}

@@ -1,0 +1,10 @@
+.Menu{
+   width:240px;
+   height: calc(100vh - 180px);
+   background-color: rgb(7, 7, 7);
+   position: fixed;
+   z-index: 1;
+   top:90px;
+   border-radius:15px;
+}
+
