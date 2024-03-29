@@ -5,7 +5,7 @@ let saved = null;
 let timer = null;
 let smth = 0;
 
-
+//12
   
 
 function update(player,audio) {
